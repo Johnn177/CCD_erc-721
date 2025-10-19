@@ -1,4 +1,4 @@
-#Recursos para la creacion de un contrato Inteligente estandar erc-721
+# Recursos para la creacion de un contrato Inteligente estandar erc-721
 
 resouces/nft.json: Metadata del Nft
 
